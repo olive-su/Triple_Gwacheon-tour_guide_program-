@@ -1,6 +1,8 @@
 # Triple_Gwacheon-tour_guide_program-
 
-# 과천 관광지 PREVIEW 프로그램_Python
+![Python](https://img.shields.io/badge/Python-3776AB?style-flat-square&logo=Python&logoColor=white)
+
+_과천 관광지 PREVIEW 프로그램_Python_
 
 <img src="https://user-images.githubusercontent.com/67156494/112720107-cd990000-8f3f-11eb-89e8-82d5fd5f27aa.JPG"  width="700" height="430">
 
